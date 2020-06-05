@@ -1,6 +1,6 @@
 # yametrika
 Script for Yandex.metrika statistic.
-
+[in Russion](README_RU.md).
 ## Functional
 Displays visitors, views. Displays information for all configured counters correctly.
 
